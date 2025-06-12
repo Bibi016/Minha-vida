@@ -77,7 +77,8 @@ Sou imensamente grata por ter você ao meu lado, por fazer meus dias mais leves,
 Obrigada por tudo e por tanto.
 Eu te amo mais do que qualquer palavra pode expressar.
 Feliz Dia dos Namorados! ❤️.</p>
-    <img src="https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?auto=format&fit=crop&w=600&q=80" alt="Foto Romântica" />
+    <img ![image](https://github.com/user-attachments/assets/e1be05da-b3c9-4acd-8f95-b005452896af)
+ alt="Foto Romântica" />
   </div>
 </body>
 </html>
