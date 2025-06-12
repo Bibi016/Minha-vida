@@ -63,8 +63,20 @@
 <body>
   <a href="." class="top-right-link" target="_self">Meu amor</a>
   <div class="container">
-    <h1>Feliz Dia dos Namorados</h1>
-    <p>Que nosso amor continue crescendo, iluminado pela bênção de Deus, trazendo alegria, companheirismo e muitos momentos inesquecíveis.</p>
+    <h1>F Dia dos Namorados</h1>
+    <p> Meu amor,
+
+Hoje celebramos mais uma data especial: mais um ano em que o nosso amor venceu.
+
+Você é a pessoa que sempre sonhei, a resposta das minhas preces e o companheiro que eu idealizei para mim. É a luz que ilumina os meus dias — e às vezes, um trovão que balança tudo por aqui kkkkk. Mas mesmo assim, continuo te amando mais a cada dia.
+
+Nosso relacionamento passou por fases — felizes, tristes, difíceis — e mesmo nas tempestades, o nosso amor permaneceu firme. E isso só mostra a força do que sentimos um pelo outro.
+
+Sou imensamente grata por ter você ao meu lado, por fazer meus dias mais leves, por me fazer rir e, principalmente, por nunca desistir da gente.
+
+Obrigada por tudo e por tanto.
+Eu te amo mais do que qualquer palavra pode expressar.
+Feliz Dia dos Namorados! ❤️.</p>
     <img src="https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?auto=format&fit=crop&w=600&q=80" alt="Foto Romântica" />
   </div>
 </body>
